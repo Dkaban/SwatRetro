@@ -3,8 +3,8 @@
 ## Language: C#
 
 ### Description
-** A turn based tactical game.
-** Grid based movement.
+**A turn based tactical game.
+**Grid based movement.
 
 #### To Play The Prototype
 - Open SampleScene.unity
