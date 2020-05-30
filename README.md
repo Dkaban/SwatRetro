@@ -6,7 +6,9 @@
 **A turn based tactical game.**
 **Grid based movement.**
 
-#### To Play The Prototype
+#### Currently A Work In Progress (Last Updated May 30th, 2020)
+
+##### To Play The Prototype
 - Open SampleScene.unity
 - Click Play
 - tiles that you hover over are highlighted in blue
