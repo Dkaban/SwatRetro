@@ -3,7 +3,7 @@
 ## Language: C#
 
 ### Description
-A turn based, tile based movement game (WIP)
+A turn based tactical game.  Grid based movement.
 
 #### To Play The Prototype
 - Open SampleScene.unity
