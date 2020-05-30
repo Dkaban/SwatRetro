@@ -1,7 +1,11 @@
-# SwatRetro
+# SwatRetro Unity Game Prototype
+## Built In: Unity3D
+## Language: C#
+
+### Description
 A turn based, tile based movement game (WIP)
 
-To Play The Prototype
+#### To Play The Prototype
 - Open SampleScene.unity
 - Click Play
 - tiles that you hover over are highlighted in blue
